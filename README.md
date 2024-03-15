@@ -1,0 +1,1 @@
+# Sum-of-diagonal-elements-in-10-10-matrix
